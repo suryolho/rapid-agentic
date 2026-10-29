@@ -1,0 +1,2 @@
+# rapid-agentic
+DevOps agentic 
